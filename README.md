@@ -1,0 +1,2 @@
+# vagabond
+dynamic dns
